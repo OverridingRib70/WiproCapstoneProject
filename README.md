@@ -105,5 +105,5 @@ All scripts can be executed individually or via a **menu-driven interface** for 
 ---
 
 ## 👨‍💻 Author
-**A. Ritikh**  
+**Abhay Prasad Singh**  
 🎓 B.Tech (CSE), ITER, Siksha ’O’ Anusandhan University
